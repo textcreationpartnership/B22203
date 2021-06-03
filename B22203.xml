@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of both Houses of Parliament presented to His Majestie at York, the 23 of May, 1642 concerning the disbanding of his guard, with the three votes of both Houses of the 20, and His Majesties answer thereunto.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22203</idno><idno type="EEBO-CITATION">10268657</idno>
+  <idno type="VID">204634</idno>
+  <idno type="EEBO-PROQUEST">2240942339</idno>
+  
+            <idno type="STC">Wing E2165</idno>
+            <idno type="OCLC">10268657</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204634)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1382:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of both Houses of Parliament presented to His Majestie at York, the 23 of May, 1642 concerning the disbanding of his guard, with the three votes of both Houses of the 20, and His Majesties answer thereunto.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker and by the assignes of John Bill,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204634:1"/>
+            <pb facs="tcp:204634:1"/>
+            <p>THE PETITION Of both Houses of Parliament. Presented to His Majestie at York, the 23. of May 1642. Concerning the disbanding of His Guard. With the three Votes of both Houses of the 20. And His Majesties Answer thereunto.</p>
+            <p>YORK: Printed by ROBERT BARKER, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL.</p>
+            <p>1642.</p>
+            <pb facs="tcp:204634:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:204634:2"/>
+            <head>TO THE KINGS <hi>MOST EXCELLENT</hi> MAJESTIE. The humble Petition of the Lords and Commons assembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majesties loyall Subjects, the Lords and Commons in this Parliament, do humbly represent unto your Maje<g ref="char:EOLhyphen"/>stie, That notwithstanding Your fre<g ref="char:EOLhyphen"/>quent Professions to Your Parliament, and the Kingdom, and the late expression in Your Answer of the thirteenth of May, to the Petition of the County of <hi>York,</hi> That Your desire and intention is onely the pre<g ref="char:EOLhyphen"/>serving of the true Protestant Profession, the Laws of the Land, the liberty of Your
+<pb n="2" facs="tcp:204634:3"/> people, and the peace of the Kingdom; Neverthelesse, with great grief, we per<g ref="char:EOLhyphen"/>ceive by Your Speech of the twelfth of May, and the Paper printed in Your Ma<g ref="char:EOLhyphen"/>jesties Name, in the form of a Proclama<g ref="char:EOLhyphen"/>tion, bearing date the fourteenth of May, and other Evidences, That under colour of raising a Guard to secure Your Person, of which Guard (considering the fidelity &amp; care of your Parliament) there can be no use: Your Majestie doth cōmand Troops, both of Horse and Foot to assemble at <hi>York,</hi> the very beginnings whereof were ap<g ref="char:EOLhyphen"/>prehended by the Inhabitants of that County to be an affrightment, and distur<g ref="char:EOLhyphen"/>bance of your Majesties liege people, as appears by their Petition presented to your Majestie: The continuing and in<g ref="char:EOLhyphen"/>crease of which Forces is to your Parlia<g ref="char:EOLhyphen"/>ment, and must needs be a just cause of great jealousie and danger to your whole Kingdom.</p>
+            <p>Therefore we do humbly beseech your Majestie, to disband all such Forces, as by Your Command are assembled; And re<g ref="char:EOLhyphen"/>lying
+<pb n="3" facs="tcp:204634:3"/> for your security (as your Predeces<g ref="char:EOLhyphen"/>sors have done) upon the Laws, and the af<g ref="char:EOLhyphen"/>fections of your People, you will be plea<g ref="char:EOLhyphen"/>sed to desist from any further designes of this nature; contenting your Self with your usuall and ordinary Guards: Other<g ref="char:EOLhyphen"/>wise we shall hold our selves bound in du<g ref="char:EOLhyphen"/>tie towards God, and the trust reposed in us by the People, and the fundamentall Laws and Constitutions of this King<g ref="char:EOLhyphen"/>dom, To imploy our care, and utmost Power to secure the Parliament, and to preserve the peace and quiet of the King<g ref="char:EOLhyphen"/>dom.</p>
+         </div>
+         <div type="proclamation">
+            <pb n="4" facs="tcp:204634:4"/>
+            <head>❧ Die Veneris 20. Maii, 1642.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/>
+               <hi>Resolved upon the Question.</hi> THat it appears, that the King (seduced by wicked Counsell) intends to make war against the Parliament, who (in all their con<g ref="char:EOLhyphen"/>sultations and actions) have propo<g ref="char:EOLhyphen"/>sed no other end unto themselves but the care of His Kingdoms, and the performance of all duty and loyalty to His Person.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/>
+               <hi>Resolved, &amp;c.</hi> That whensoever the King ma<g ref="char:EOLhyphen"/>keth
+<pb n="5" facs="tcp:204634:4"/> war upon the Parliament, it is a breach of the trust reposed in him by His People, contrary to His Oath, and tending to the dissolution of this Government.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/>
+               <hi>Resolved, &amp;c.</hi> That whosoever shall serve or assist Him in such wars, are Trai<g ref="char:EOLhyphen"/>tors, by the fundamentall Laws of this Kingdom; and have been so adjudged by two Acts of Parlia<g ref="char:EOLhyphen"/>ment, and ought to suffer as Trai<g ref="char:EOLhyphen"/>tors. <note place="margin">11. <hi>R.</hi> 2. 1. <hi>H.</hi> 4.</note>
+            </p>
+            <closer>
+               <signed>Jo. Brown Cler. Parl.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:204634:5"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the British royal family</figDesc>
+                  <head>
+                     <q>DIEV ET MON DROIT</q>
+                  </head>
+                  <p>HONI SOIT QVI MAY Y PENSE</p>
+               </figure>
+               <pb n="7" facs="tcp:204634:5"/>
+               <hi>HIS MAJESTIES <hi>ANSWER</hi> To the aforesaid Petition, con<g ref="char:EOLhyphen"/>cerning the disbanding of His Guard. Presented to His Majestie at YORK, the</hi> 23. <hi>of May</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E cannot but extream<g ref="char:EOLhyphen"/>ly wonder, that the causlesse Iealousies concerning Vs, raised and fomented by a ma<g ref="char:EOLhyphen"/>lignant Partie in this Kingdom, which desires nothing more then to snatch themselves particular advantages out of a ge<g ref="char:EOLhyphen"/>nerall
+<pb n="8" facs="tcp:204634:6"/> combustion (which means of advantage shall never be ministred to them by Our fault or seeking) should not onely be able to seduce a weak party in this Our Kingdom, but seem to finde so much counte<g ref="char:EOLhyphen"/>nance even from both Houses, as that Our raising of a Guard (with<g ref="char:EOLhyphen"/>out further designe, then for the safety of Our Person; an Action so Legall in manner, so peaceable, upon causes so evident and necessa<g ref="char:EOLhyphen"/>ry) should not onely be looked up<g ref="char:EOLhyphen"/>on, and petitioned against by them, as a causlesse Iealousie, but decla<g ref="char:EOLhyphen"/>red to be the raising of a war against them, contrary to Our former Professions of Our Care of Reli<g ref="char:EOLhyphen"/>gion and Law. And We no lesse wonder, that this Action of Ours should be said (in a very large ex<g ref="char:EOLhyphen"/>pression) to be apprehended by the Inhabitants of this Countrey, as an affrightment and disturbance to Our People; having been as well
+<pb n="9" facs="tcp:204634:6"/> received here, as it is every where to be justified; and (We speak now of the generall, not of a few seduced particulars) assisted and sped by this Countrey, with that loyall Affection and Alacrity, as is a most excellent example set to the rest of the Kingdom, of care of Our safety upon all occasions, and shall never be forgotten by Vs, nor We hope, by Our Posterity; but shall be ever payed to them in that which is the proper expression of a Princes Gratitude, A perpetuall vi<g ref="char:EOLhyphen"/>gilant care to govern them justly, and to preserve the onely Rule by which they can be governed, The Law of the Land. And We are confident, That if you were your selves Eye-witnesses, you would see so the contrary, as to give little present thanks, and hereafter little credit to your Informers: And if you have no better intelligence of the Inclinations and Affections
+<pb n="10" facs="tcp:204634:7"/> of the rest of the Kingdom, certain<g ref="char:EOLhyphen"/>ly the minds of Our People (which to some ends and purposes you represent) are but ill represented un<g ref="char:EOLhyphen"/>to you.</p>
+            <p>Have you so many moneths to<g ref="char:EOLhyphen"/>gether not contented your selves to rely for security (as your Predeces<g ref="char:EOLhyphen"/>sours have done) upon the Affecti<g ref="char:EOLhyphen"/>on of the People, but by your own single Authority raised to your selves a Guard, (and that some<g ref="char:EOLhyphen"/>times of no ordinary numbers, and in no ordinary way) And could not all those Pikes and Protestations, that Army on one side, and that Navie on the other, perswade Vs to command you to disband your forces, and to content your selves with your ordinary (that is, with no) Guard, or work Vs in an opinion, that you appeared to lea<g ref="char:EOLhyphen"/>vie War against Vs, or had any fur<g ref="char:EOLhyphen"/>ther designe? And is it possible that the same Persons should be so apt to
+<pb n="11" facs="tcp:204634:7"/> suspect and condemn Vs, who have been so unapt in the same matter, (upon much more ground) to taxe or suspect them? This is Our case, notwithstanding the care and fidelity of Our Parliament, Our Fort is kept by armed men, against Vs, Our proper Goods, first detain<g ref="char:EOLhyphen"/>ed from Vs, and then, contrary to Our Command, by strong hand, offered to be carried away (in which at once all Our Property, as a private Person, all Our Au<g ref="char:EOLhyphen"/>thority as a King, are wrested from Vs:) And yet for Vs to secure Our selves in a Legall way (that Sir <hi>John Hotham</hi> may not by the same Forces, or by more raised, by pre<g ref="char:EOLhyphen"/>tence of the same Authority (for they say he raiseth daily some, and know it no new thing for him to pretend Orders that he cannot shew) continue the War that he hath leavied against Vs, and as
+<pb n="12" facs="tcp:204634:8"/> well imprison Our Person, as de<g ref="char:EOLhyphen"/>tain Our Goods; and as well shut Vs up in <hi>York,</hi> as shut Vs out of <hi>Hull)</hi> is said to be esteemed a cause of great jealousie to the Parlia<g ref="char:EOLhyphen"/>ment, a raising War against them; and of danger to the whole King<g ref="char:EOLhyphen"/>dom. While these Injustices and Indignities offered to Vs are coun<g ref="char:EOLhyphen"/>tenanced by them who ought to be most forward in Our vindication and their punishment, in observa<g ref="char:EOLhyphen"/>tion of their Oaths, and of the trust reposed in them by the People, and to avoid the dissolution of the present Government: Vpon which Case the whole world is to judge, Whether We had not reason, not wholly to rely upon the care and fidelity of Our Parliament (being so strangely blinded by malignant spirits, as not to perceive Our in<g ref="char:EOLhyphen"/>juries) but to take some care of Our own Person, and in Order to that,
+<pb n="13" facs="tcp:204634:8"/> to make use of that Authority which the Laws declare to be in Vs: And whether this Petiti<g ref="char:EOLhyphen"/>on, with such a threatning Con<g ref="char:EOLhyphen"/>clusion, accompanied with more threatning Votes, gives Vs not cause rather to increase then dimi<g ref="char:EOLhyphen"/>nish Our Guard; especially since We saw, before the Petition, a print<g ref="char:EOLhyphen"/>ed Paper, dated the 17. of May, under written <hi>Hen. Elsing Cler. D. Com.</hi> commanding (in the name of both Lords and Commons) the Sheriffs of all Our Counties, to raise the Power of all those Our Counties, to suppresse such of Our Subjects, as by any of Our Com<g ref="char:EOLhyphen"/>mands shall be drawn together, and put (as that Paper calls it) in a posture of War, charging Our Of<g ref="char:EOLhyphen"/>ficers and Subjects to assist them in the performance thereof, at their perils: For though We cannot su<g ref="char:EOLhyphen"/>spect, that this Paper (or any bare
+<pb n="14" facs="tcp:204634:9"/> Votes, not grounded upon Law or Reason, or quotation of repeal<g ref="char:EOLhyphen"/>ed Statutes) should have any ill in<g ref="char:EOLhyphen"/>fluence upon Our good People, who know their duties too well, not to know, That to take up Arms against those, who upon a legall Command (that is, Ours) come to<g ref="char:EOLhyphen"/>gether to a most legall end (that is, Our Security and Preservation) were to leavy war against Vs; and who appear in this County (and We are confident they are so thorowout the Kingdom) no lesse satisfied with the Legality, Con<g ref="char:EOLhyphen"/>veniency, and Necessity of these Our Guards, and no lesse sensible of the indignities and dangers (which makes it necessary) then We are Our selves: Yet if that Paper bee really the Act of both Houses, We cannot look upon it, but as the highest of Scorns and indignities; first, to issue commands
+<pb n="15" facs="tcp:204634:9"/> of Force against Vs, and after those have appeared uselesse, to of<g ref="char:EOLhyphen"/>fer, by Petition, to perswade Vs to that which that Force should have effected.</p>
+            <p>We conclude this Answer to your Petition, with Our Coun<g ref="char:EOLhyphen"/>sell to you, That you joyn with Vs in exacting satisfaction for that un<g ref="char:EOLhyphen"/>paralled, and yet unpunished Acti<g ref="char:EOLhyphen"/>on of Sir <hi>Iohn Hothams;</hi> And that you command Our Fort and Goods to be returned to Our own hands; That you lay down all pre<g ref="char:EOLhyphen"/>tences (under pretence of necessity, or declaring what is law) to make Laws without Vs, and (by conse<g ref="char:EOLhyphen"/>quence) but a Cypher of Vs; That you declare effectually against Tu<g ref="char:EOLhyphen"/>mults, and call in such Pamphlets, (punishing the Authors and Pub<g ref="char:EOLhyphen"/>lishers of them) as seditiously en<g ref="char:EOLhyphen"/>devour to dis-able Vs from protect<g ref="char:EOLhyphen"/>ing Our People, by weakning (by
+<pb n="16" facs="tcp:204634:10"/> false Aspersions, and new false Do<g ref="char:EOLhyphen"/>ctrines) Our Authority with them, and their confidence in Vs. The particulars of which Tumults and Pamphlets We would long since have taken care, that Our learned Councell should have been enabled to give in evidence, if, upon Our former offer, We had received any return of incouragement from you in it. And if you do this, you then (and hardly till then) will perswade the world, That you have dischar<g ref="char:EOLhyphen"/>ged your duty to God, the trust re<g ref="char:EOLhyphen"/>posed in you by the People, and the fundamentall Laws and Constitu<g ref="char:EOLhyphen"/>tions of the Kingdom, and imploy<g ref="char:EOLhyphen"/>ed your care and utmost power to se<g ref="char:EOLhyphen"/>cure the Parliament; (for We are still a part of the Parliament, and shalbe till this wel-founded Monar<g ref="char:EOLhyphen"/>chy be turned to a Democracie) and to preserve the peace and quiet of the Kingdom. Which, together
+<pb n="17" facs="tcp:204634:10"/> with the defence of the Protestant profession, the Laws of the Land, and Our own just Prerogative (as a part of, and a defence to those Laws) have been the main end, which, in Our Consultations and Actions, We proposed to Our Self.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
